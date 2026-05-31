@@ -1,0 +1,19 @@
+
+自治会基本情報
+==========================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 目次
+
+   最新情報 <https://imada-test.github.io/posts/>
+   annual_plan
+   accounting
+   disaster_preparedness
+   crime_prevention
+   traffic_safety
+   social_welfare
+   youth_development
+   sports
+   public_relations
+   environment
